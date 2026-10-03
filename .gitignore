@@ -1,0 +1,5 @@
+.netlify
+node_modules
+screenshots/
+system-app-public.zip
+__pycache__/
